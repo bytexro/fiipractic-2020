@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-This command installs a package, and any packages that it depends on.
+This command installs a package, and any packages that it depends on. <br />
 These packages are declared as dependencies in package.json file which after installation can be found in local node_modules folder. 
 
 ### `npm start`
